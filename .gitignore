@@ -34,3 +34,5 @@ build
 *.out
 *.app
 /build
+src/server/AdminServer/Admin.h
+src/server/NodeServer/Node.h
